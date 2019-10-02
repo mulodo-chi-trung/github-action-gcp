@@ -1,2 +1,2 @@
-# github-action-gcp
-We will using Github Action and to manage terraform workflow, that include:  Define GitHub Action workflow for our terraform usage; Apply GitHub Action for our GitHub Repository;  Using Terraform Cloud for our terraform backend.
+# github-action-full
+GitHub Actions allow you to trigger commands in reaction to GitHub events. Terraform's GitHub Actions are designed to run on new and updated pull requests to help you review and validate Terraform changes.
